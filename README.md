@@ -1,35 +1,34 @@
-🛡️ Password Generator (CLI)
+📒 Contact Book CLI
 
-A simple yet functional command-line password generator built in Python. This tool allows you to generate secure random passwords, save them with custom names, and retrieve them later using a master password system.
+Contact Book CLI is a simple command-line interface application written in Python that lets you manage personal contacts efficiently. It supports basic CRUD operations — Create, Read, Update, and Delete — through an interactive menu-driven system.
+
+This beginner-friendly project is ideal for learning file handling, basic data storage, and Python control flow without involving databases or external libraries.
 🔧 Features
 
-✅ Random password generation with customizable length
-🔢 Option to include numbers and/or punctuation
-💾 Auto-save passwords with user-defined names
-🔐 Master password protection for viewing and searching saved passwords
-📂 Local file-based password storage (PasswordGen-Database.txt)
+- ➕ Add New Contacts with name and phone number.
 
-🚀 Getting Started
+- 📃 View All Saved Contacts at once.
 
-    Clone the repository:
-git clone https://github.com/YOUR_USERNAME/PASSWORD-GENERATOR.git
-cd PASSWORD-GENERATOR
+- 🔍 Search Contacts by name or number.
 
-Run the script:
+- 🖊️ Edit Existing Entries via lookup.
 
-    python PasswordGenerator.py
+- ❌ Delete Contacts individually.
 
-🧠 To-Do
+- 💾 All data is stored in a plain .txt file for simplicity and portability.
 
--Add GUI using tkinter or PyQt
+🧠 What I've Learned
 
--Encrypt stored passwords
+- File handling (open, read, write)
 
--Implement password update/delete features
+- Basic string operations and user input
 
--Save data in .json or .sqlite format
+- Implementing CLI menus and input validation
 
+- Searching, updating, and filtering lines from a text-based database
 
-💡 Note
+🖥️ Requirements
 
-This is an early CLI version. Perfect for learning Python basics, file handling, user input, and basic security logic.
+- Python 3.x
+
+- No external dependencies
