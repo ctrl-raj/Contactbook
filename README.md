@@ -20,6 +20,7 @@ Run the script:
     python PasswordGenerator.py
 
 🧠 To-Do
+
 -Add GUI using tkinter or PyQt
 
 -Encrypt stored passwords
