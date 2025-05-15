@@ -32,3 +32,7 @@ This beginner-friendly project is ideal for learning file handling, basic data s
 - Python 3.x
 
 - No external dependencies
+
+💡 Note
+
+This is an early CLI version. Perfect for learning Python basics, file handling, user input, and basic security logic.
