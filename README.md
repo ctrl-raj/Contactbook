@@ -21,9 +21,13 @@ Run the script:
 
 🧠 To-Do
 -Add GUI using tkinter or PyQt
+
 -Encrypt stored passwords
+
 -Implement password update/delete features
+
 -Save data in .json or .sqlite format
+
 
 💡 Note
 
